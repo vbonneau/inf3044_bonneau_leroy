@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg">-_-</string>
+    <string name="item">c\'est un toast</string>
+    <string name="dialog_msg">c\'est une boite de dialogue</string>
+    <string name="dialog_title">boite de dialogue</string>
+    <string name="notif_title">notif</string>
+    <string name="notif_text">c\'est une notif</string>
+    <string name="dl_text">telechargement en cours</string>
+    <string name="dl_end">telechargement terminé</string>
+</resources>
