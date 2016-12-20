@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Our test</string>
+    <string name="msg">-_-</string>
+    <string name="item">it is a toast</string>
+    <string name="dialog_msg">it is a dialog box</string>
+    <string name="dialog_title">dialog box</string>
+    <string name="notif_title">notif</string>
+    <string name="notif_text">it is a notif</string>
+    <string name="dl_text">downloading</string>
+    <string name="dl_end">is download</string>
+</resources>
